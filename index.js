@@ -9,9 +9,8 @@ function scuberGreetingForFeet(distance) {
   } else {
     return "Here we go!";
   }
-};
+}
 
 function ternaryCheckCity(city) {
-  city ? 
-  
+  city ? "Ok, sounds good." : "No go.";
 }
