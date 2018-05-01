@@ -11,4 +11,6 @@ let scuberGreetingForFeet = function(distance) {
   }
 };
 
-let 
+let ternaryCheckCity = function(city) {
+  
+}
