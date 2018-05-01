@@ -11,6 +11,6 @@ function scuberGreetingForFeet(distance) {
   }
 };
 
-let ternaryCheckCity = function(city) {
+function ternaryCheckCity(city) {
   
 }
